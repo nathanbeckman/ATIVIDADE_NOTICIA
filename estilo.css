@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+}
+
+.titulo1 {
+    color: rgb(0, 68, 255);
+}
+
+.desc1{
+    color: white;
+}
+
+.titulo2{
+    color: red;
+}
+
+.desc2{
+    color: white;
+}
+
+.titulo3{
+    color: rgb(0, 183, 255);
+}
+
+.desc3{
+    color: white;
+}
+
+.titulo4{
+    color: rgb(0, 253, 76);
+}
+
+.desc4{
+    color: white;
+}
+
+.titulo5{
+    color: gray;
+}
+
+.desc5{
+    color: white;
+}
+
+.titulo6{
+    color: rgb(0, 159, 252);
+}
+
+.desc6{
+    color: white;
+}
+
+.titulo7{
+    color: red;
+}
+
+.desc7{
+    color: white;
+}
